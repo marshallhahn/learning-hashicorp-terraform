@@ -1,5 +1,8 @@
 .DS_Store
 
+# GCP Keys
+potent-density-394317-9a30b5909c20.json
+
 # Local .terraform directories
 **/.terraform/*
 
